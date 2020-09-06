@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Configurations>Debug;Release</Configurations>
+    <Version>1.0.0</Version>
+    <Authors>Mark Dickinson</Authors>
+    <Company>DickinsonBros</Company>
+    <RepositoryUrl>https://github.com/msdickinson/DickinsonBros.DataTable.Abstractions.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>
+      Abstractions For DatTable.Abstractions
+
+      https://github.com/msdickinson/DickinsonBros.DataTable
+    </Description>
+  </PropertyGroup>
+
+</Project>
